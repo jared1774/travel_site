@@ -1,0 +1,17 @@
+/**
+* Your CSS here
+**/
+body {background-color: #b1d6be;}
+h1 {
+    font-family: 'Shantell Sans', cursive;
+}
+p {
+    font-family: 'Kanit', cursive;
+}
+h2 {
+    font-family: 'Pinyon Script', cursive;
+}
+
+.hikes {
+    font-family: 'Kanit', cursive;
+}
